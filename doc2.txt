@@ -1,2 +1,2 @@
-test2
+test2="texto de prubas..."
 map(x,0,100,200,225)
